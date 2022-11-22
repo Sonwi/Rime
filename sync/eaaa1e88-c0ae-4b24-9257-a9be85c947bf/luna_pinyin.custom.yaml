@@ -1,0 +1,8 @@
+# luna_pinyin custom yaml
+patch:
+  punctuator:
+    half_shape:
+      "#":"#"
+  #"menu/pageisize": 5
+  #"style/font_point": 16
+  #"style/horizontal": true

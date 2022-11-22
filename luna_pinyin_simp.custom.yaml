@@ -1,0 +1,19 @@
+# luna_pinyin custom yaml
+patch:
+  punctuator/half_shape:
+    "#":"#"
+  punctuator/full_shape:
+    "#":"#"
+  #"menu/pageisize": 5
+  #"style/font_point": 16
+  #"style/horizontal": true
+  switches/@next:
+    name: emoji_suggestion
+    reset: 1
+    states: [ "🈚️️\uFE0E", "🈶️️\uFE0F" ]
+  'engine/filters/@before 0':
+    simplifier@emoji_suggestion
+  emoji_suggestion:
+    opencc_config: emoji.json
+    option_name: emoji_suggestion
+    tips: all

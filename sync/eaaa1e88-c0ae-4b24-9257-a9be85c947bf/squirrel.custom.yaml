@@ -1,0 +1,5 @@
+# squirrel custom yaml
+patch:
+  "menu/page_size": 5
+  "style/font_point": 16
+  "style/horizontal": true

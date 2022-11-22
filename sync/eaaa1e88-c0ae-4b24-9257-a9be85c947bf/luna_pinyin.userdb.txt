@@ -1,0 +1,365 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	514
+#@/user_id	eaaa1e88-c0ae-4b24-9257-a9be85c947bf
+ai ni 	愛你	c=3 d=1.86127 t=442
+an an 	安安	c=1 d=1 t=271
+ba 	把	c=1 d=1 t=160
+ba ge 	八個	c=0 d=0.1 t=243
+ba ge dian 	八個點	c=1 d=1 t=244
+ba la 	扒拉	c=2 d=1.99501 t=171
+ban 	辦	c=1 d=1 t=319
+bao bei 	寶貝	c=3 d=1.7507 t=389
+bi 	比	c=0 d=0.1 t=312
+bi jiao 	比較	c=1 d=1 t=417
+bi lao shi 	比老師	c=1 d=1 t=313
+bian ka 	變卡	c=1 d=1 t=71
+bie ren 	別人	c=0 d=0.1 t=378
+bie ren le 	別人了	c=1 d=1 t=379
+bu cuo de 	不錯的	c=2 d=1.99501 t=337
+bu da 	不大	c=1 d=1 t=351
+bu dui 	不對	c=1 d=1 t=341
+bu guo 	不過	c=1 d=1 t=86
+bu he 	不喝	c=1 d=1 t=450
+bu hui de 	不會的	c=1 d=1 t=149
+bu shi 	不是	c=1 d=1 t=397
+bu shuo hua 	不說話	c=1 d=1 t=146
+bu suan 	不算	c=1 d=1 t=8
+bu yao 	不要	c=2 d=1.99005 t=165
+bu yao le 	不要了	c=1 d=1 t=377
+cao zuo 	操作	c=1 d=1 t=135
+cha bu duo 	差不多	c=1 d=1 t=243
+chao 	超	c=1 d=1 t=198
+che 	扯	c=1 d=1 t=309
+chu qu 	出去	c=1 d=1 t=462
+chuan 	穿	c=1 d=1 t=393
+chuang xin 	創新	c=1 d=1 t=43
+chui zi 	錘子	c=1 d=1 t=38
+cuo guai 	錯怪	c=1 d=1 t=458
+dan 	單	c=1 d=1 t=307
+dan shi 	但是	c=1 d=1 t=423
+dang shi 	當時	c=1 d=1 t=245
+dao 	到	c=1 d=1 t=474
+dao teng 	倒騰	c=1 d=1 t=492
+de 	得	c=1 d=1 t=435
+de 	的	c=9 d=4.21 t=497
+de fu 	德芙	c=1 d=1 t=433
+de tou xiang 	的頭像	c=1 d=1 t=396
+di dian 	地點	c=1 d=1 t=464
+dian 	點	c=1 d=0.881298 t=288
+dian ke 	電科	c=2 d=1.73712 t=353
+diao 	雕	c=1 d=1 t=327
+die le 	跌了	c=1 d=1 t=252
+ding hao 	訂好	c=0 d=0.1 t=464
+ding hao le ma 	訂好了嗎	c=1 d=1 t=465
+ding jia 	定價	c=0 d=0.1 t=249
+dong xi 	東西	c=2 d=1.17464 t=404
+dou 	都	c=1 d=1 t=115
+dou shi 	都是	c=2 d=1.94649 t=275
+dou zai 	都在	c=1 d=1 t=130
+duan lian 	鍛鍊	c=1 d=1 t=265
+dui 	對	c=2 d=1.14515 t=419
+dui de 	對的	c=1 d=1 t=157
+dui le 	對了	c=1 d=1 t=444
+dun 	頓	c=1 d=1 t=10
+duo 	多	c=1 d=1 t=121
+duo shao 	多少	c=1 d=1 t=197
+e 	哦	c=0 d=0.1 t=207
+e 	額	c=1 d=1 t=498
+ei 	誒	c=1 d=1 t=91
+en en 	嗯嗯	c=1 d=1 t=469
+er qie 	而且	c=1 d=1 t=63
+fan fan 	飯飯	c=1 d=1 t=31
+fan ying 	反應	c=1 d=1 t=17
+fan ying 	反映	c=1 d=1 t=16
+fei chang 	非常	c=5 d=2.03704 t=356
+fu chong 	俯衝	c=1 d=1 t=268
+gan ga 	尷尬	c=1 d=1 t=147
+gan jue 	感覺	c=5 d=2.28462 t=514
+gang gang 	剛剛	c=2 d=1.99501 t=426
+ge 	個	c=2 d=1.47001 t=180
+ge 	擱	c=1 d=1 t=381
+ge ju 	格局	c=1 d=1 t=206
+gei ni 	給你	c=1 d=1 t=169
+gou 	狗	c=1 d=1 t=210
+gu 	股	c=1 d=1 t=429
+gu piao 	股票	c=2 d=1.38289 t=415
+guan fang 	官方	c=1 d=1 t=437
+guan xin 	關心	c=1 d=1 t=111
+guo 	過	c=1 d=1 t=394
+ha ha ha 	哈哈哈	c=14 d=5.54804 t=479
+ha ha ha ha 	哈哈哈哈	c=6 d=3.2068 t=489
+hai 	還	c=1 d=1 t=57
+hai gao 	還高	c=1 d=1 t=317
+hai hui 	還會	c=1 d=1 t=109
+hai jiu 	還就	c=1 d=1 t=325
+hai shi 	還是	c=24 d=8.40264 t=494
+hai you 	還有	c=1 d=1 t=449
+hai zai 	還在	c=1 d=1 t=365
+hao 	好	c=3 d=1.63454 t=486
+hao de 	好的	c=1 d=1 t=439
+hao di 	好滴	c=2 d=1.97045 t=505
+hao duo 	好多	c=1 d=1 t=56
+hao lei 	好嘞	c=2 d=1.22537 t=456
+hao zhi yu 	好治癒	c=1 d=1 t=402
+he 	和	c=1 d=1 t=513
+he 	喝	c=2 d=1.09255 t=512
+he ta jia 	和他家	c=1 d=1 t=209
+hen 	很	c=2 d=1.85438 t=95
+hen bu cuo 	很不錯	c=6 d=1.908 t=363
+hen fang bian 	很方便	c=1 d=1 t=477
+hen hao yong 	很好用	c=1 d=1 t=69
+hen kuai 	很快	c=1 d=1 t=355
+hen kun 	很困	c=1 d=1 t=398
+hen niu bi 	很牛逼	c=1 d=0.206992 t=487
+hen niu bi de 	很牛逼的	c=1 d=1 t=488
+hen tian 	很甜	c=1 d=1 t=60
+heng xiang 	橫向	c=1 d=1 t=14
+hou xuan 	候選	c=1 d=1 t=333
+hua le 	化了	c=1 d=1 t=51
+hua ti 	話題	c=1 d=1 t=122
+huan jing 	環境	c=1 d=1 t=511
+huan le 	換了	c=1 d=1 t=137
+huan le ge 	換了個	c=1 d=1 t=64
+hui lai 	回來	c=2 d=1.79057 t=81
+huo 	霍	c=1 d=1 t=506
+huo su 	火速	c=1 d=1 t=220
+huo zhe 	或者	c=1 d=1 t=84
+ji ben 	基本	c=1 d=1 t=114
+ji dian 	幾點	c=1 d=1 t=461
+ji lu 	記錄	c=1 d=1 t=133
+ji qi 	機器	c=1 d=1 t=75
+jia 	價	c=2 d=1.9802 t=316
+jia shang 	加上	c=1 d=1 t=414
+jian yi 	建議	c=1 d=1 t=79
+jiao ao 	驕傲	c=0 d=0.1 t=410
+jiao wo 	叫我	c=1 d=1 t=472
+jie ni 	接你	c=1 d=1 t=501
+jin tian 	今天	c=2 d=1.36422 t=424
+jin yong 	禁用	c=1 d=1 t=4
+jin zhang 	緊張	c=1 d=1 t=248
+jiu 	就	c=4 d=3.09649 t=412
+ju ran 	居然	c=1 d=1 t=286
+jue de 	覺得	c=1 d=1 t=145
+ka 	卡	c=1 d=1 t=9
+ka fei 	咖啡	c=1 d=1 t=451
+kai shi 	開始	c=1 d=1 t=267
+kai yuan 	開源	c=1 d=1 t=58
+kan 	看	c=2 d=1.99005 t=405
+kan kan 	看看	c=3 d=2.40276 t=468
+kan zhe 	看着	c=0 d=0.1 t=317
+ke yi 	可以	c=1 d=1 t=476
+ken ding 	肯定	c=0 d=0.1 t=147
+kuai jie jian 	快捷鍵	c=1 d=1 t=23
+la 	啦	c=3 d=1.89505 t=348
+lao shi 	老師	c=9 d=5.81334 t=312
+le 	了	c=8 d=5.0795 t=460
+le ma 	了嗎	c=1 d=0.332236 t=464
+li xiang 	理想	c=0 d=0.1 t=49
+liang bian 	兩邊	c=1 d=1 t=491
+liu chang 	流暢	c=2 d=1.9802 t=100
+liu ge 	六個	c=0 d=0.1 t=177
+liu ge dian 	六個點	c=1 d=1 t=178
+lv 	綠	c=1 d=1 t=347
+ma 	嗎	c=2 d=1.17291 t=454
+ma shang 	馬上	c=1 d=1 t=159
+mai 	買	c=1 d=1 t=314
+mai 	賣	c=2 d=1.49411 t=320
+mai chu qu 	賣出去	c=0 d=0.1 t=254
+mai chu qu le 	賣出去了	c=1 d=1 t=255
+mai le 	賣了	c=2 d=1.76338 t=279
+mai zai 	賣在	c=2 d=1.6942 t=287
+man 	慢	c=1 d=1 t=300
+man le 	滿了	c=0 d=0.1 t=298
+mei 	沒	c=1 d=1.08106 t=410
+mei 	美	c=0 d=0.1 t=390
+mei na me 	沒那麼	c=1 d=1 t=120
+mei qi lai 	美起來	c=1 d=1 t=391
+mei shui 	沒睡	c=1 d=1 t=413
+mei shui jiao 	沒睡覺	c=1 d=1 t=369
+mei wen ti 	沒問題	c=1 d=1 t=142
+mei yi si 	沒意思	c=1 d=1 t=49
+mei you 	沒有	c=1 d=1 t=88
+men kou 	門口	c=1 d=1 t=475
+meng zhong 	夢中	c=1 d=1 t=139
+na 	那	c=3 d=2.16693 t=504
+na ci 	那次	c=1 d=1 t=422
+na ge 	那個	c=1 d=1 t=326
+na hai shi 	那還是	c=1 d=1 t=376
+na jiu 	那就	c=1 d=1 t=390
+na ken ding 	那肯定	c=1 d=1 t=148
+na wo 	那我	c=1 d=1 t=457
+ne 	呢	c=2 d=1.34301 t=367
+ni 	你	c=0 d=0.1 t=317
+ni de 	你的	c=1 d=1 t=85
+ni gei wo 	你給我	c=1 d=1 t=216
+ni hao 	你好	c=4 d=2.59396 t=481
+ni he 	你和	c=1 d=1 t=380
+ni kan zhe 	你看着	c=1 d=1 t=318
+ni shuo 	你說	c=1 d=1 t=102
+niu bi 	牛逼	c=7 d=2.44148 t=496
+niu de 	牛的	c=1 d=1 t=294
+o 	哦	c=0 d=0.1 t=165
+ou er 	偶爾	c=0 d=0.1 t=107
+pao 	泡	c=1 d=1 t=27
+pei zhi 	配置	c=1 d=1 t=13
+piao 	票	c=1 d=1 t=283
+qi dong 	啓動	c=1 d=1 t=484
+qi fei 	起飛	c=1 d=1 t=224
+qi lai 	起來	c=0 d=0.1 t=390
+qie huan 	切換	c=2 d=1.10076 t=480
+qing 	請	c=1 d=1 t=232
+qing cang 	清倉	c=2 d=1.82696 t=221
+qing lv 	情侶	c=1 d=1 t=156
+qu ba 	去吧	c=2 d=1.99501 t=270
+qu de 	去的	c=1 d=1 t=470
+qu kan ba 	去看吧	c=1 d=1 t=441
+que shi 	確實	c=5 d=2.1323 t=485
+que shi ye 	確實也	c=1 d=1 t=123
+ran hou 	然後	c=2 d=1.32792 t=253
+ren xin 	人心	c=1 d=1 t=276
+ren zhu 	忍住	c=0 d=0.1 t=373
+ren zhu le 	忍住了	c=1 d=1 t=374
+ru guo 	如果	c=2 d=1.99005 t=340
+ru he 	如何	c=1 d=1 t=32
+ru mi 	入迷	c=1 d=1 t=407
+ruan jian 	軟件	c=1 d=1 t=42
+san bai 	三百	c=2 d=1.95123 t=237
+san shou 	三首	c=1 d=1 t=181
+shang yin 	上癮	c=1 d=1 t=400
+she hui 	社會	c=0 d=0.1 t=410
+she hui jiao ao 	社會驕傲	c=1 d=1 t=411
+shi 	是	c=6 d=2.56561 t=508
+shi ba 	是把	c=2 d=1.12493 t=493
+shi de 	是的	c=5 d=3.89544 t=278
+shi hou 	時候	c=3 d=2.23057 t=471
+shi ma 	是嗎	c=1 d=1 t=72
+shi yan shi 	實驗室	c=2 d=1.96079 t=82
+shi yi shi 	試一試	c=1 d=1 t=5
+shi yong 	使用	c=1 d=1 t=358
+shi zhe yang 	是這樣	c=1 d=1 t=106
+shou 	手	c=2 d=1.73712 t=296
+shou 	收	c=1 d=1 t=295
+shou hui lai 	收回來	c=1 d=1 t=162
+shou ru 	收入	c=1 d=1 t=196
+shu fu 	舒服	c=1 d=1 t=290
+shu ru fa 	輸入法	c=4 d=2.90369 t=140
+shu shi 	舒適	c=3 d=1.44576 t=357
+shui de 	睡的	c=1 d=1 t=446
+shui jiao 	睡覺	c=0 d=0.1 t=368
+shui ping 	水平	c=1 d=1 t=332
+shuo 	說	c=0 d=0.1 t=298
+shuo le 	說了	c=1 d=1 t=217
+shuo man le 	說滿了	c=1 d=1 t=299
+su she 	宿舍	c=1 d=1 t=366
+suan 	算	c=1 d=1 t=94
+ta 	他	c=2 d=1.47951 t=251
+ta de 	他的	c=1 d=1 t=126
+ta men 	他們	c=1 d=1 t=53
+tai 	太	c=0 d=0.1 t=49
+tai li xiang 	太理想	c=1 d=1 t=50
+tai meng 	太猛	c=1 d=1 t=201
+te li du xing 	特立獨行	c=1 d=1 t=44
+ti huan 	替換	c=1 d=1 t=359
+ti xing 	提醒	c=1 d=1 t=189
+tiao shui 	跳水	c=1 d=1 t=430
+ting 	聽	c=1 d=1 t=323
+ting ta 	聽他	c=1 d=1 t=117
+tou xiang 	頭像	c=0 d=0.1 t=395
+tu cao 	吐嘈	c=1 d=1 t=118
+tuo bei 	駝背	c=1 d=1 t=164
+wang chao 	王超	c=1 d=1 t=177
+wei sha 	爲啥	c=1 d=1 t=373
+wei tong 	衛通	c=1 d=1 t=193
+wei yi 	衛衣	c=1 d=1 t=161
+wen dang 	文檔	c=1 d=1 t=438
+wen ti 	問題	c=3 d=1.60045 t=350
+wen zhuan 	穩賺	c=1 d=1 t=47
+wo 	我	c=3 d=2.56048 t=249
+wo bu shi 	我不是	c=1 d=1 t=168
+wo de 	我的	c=6 d=2.92216 t=388
+wo ding jia 	我定價	c=1 d=1 t=250
+wo kan de 	我看的	c=1 d=1 t=240
+wo lai 	我來	c=1 d=1 t=500
+wo men 	我們	c=2 d=1.17552 t=502
+wo ou er 	我偶爾	c=1 d=1 t=108
+wo qu 	我去	c=1 d=1 t=26
+wo song ni 	我送你	c=1 d=1 t=473
+wu di 	無敵	c=1 d=1 t=190
+wu shi 	五十	c=1 d=1 t=421
+wu shi ge 	五十個	c=1 d=1 t=199
+wu xiao 	無效	c=1 d=1 t=434
+xi guan 	習慣	c=1 d=1 t=136
+xia 	下	c=1 d=1 t=305
+xia dao 	嚇到	c=1 d=1 t=378
+xia le 	下了	c=1 d=1 t=297
+xian zai 	現在	c=2 d=1.37344 t=310
+xiang xiang 	湘湘	c=5 d=4.5144 t=459
+xiang xin 	相信	c=1 d=1 t=352
+xiao gao 	小高	c=0 d=0.1 t=288
+xiao gao dian 	小高點	c=1 d=1 t=289
+xiao si 	笑死	c=4 d=2.45608 t=490
+xiao si e 	笑死哦	c=1 d=1 t=208
+xiao si le 	笑死了	c=1 d=1 t=212
+xing 	行	c=1 d=1 t=152
+xing fen 	興奮	c=1 d=1 t=418
+xiu gai 	修改	c=1 d=1 t=22
+xue xi 	學習	c=1 d=1 t=372
+ya 	呀	c=1 d=1 t=203
+yao 	藥	c=1 d=1 t=28
+yao 	要	c=1 d=1 t=281
+ye 	也	c=0 d=0.19802 t=122
+ye bu yong 	也不用	c=1 d=1 t=144
+ye zheng chang 	也正常	c=1 d=1 t=119
+yi 	一	c=1 d=1 t=328
+yi ci 	一次	c=1 d=1 t=306
+yi ge 	一個	c=3 d=1.73116 t=428
+yi jing 	已經	c=1 d=1 t=346
+yi qi qu 	一起去	c=1 d=1 t=503
+yi shou 	一首	c=1 d=1 t=261
+yi xia 	一下	c=1 d=1 t=112
+yi yang 	一樣	c=1 d=1 t=211
+yi zhan 	一站	c=1 d=1 t=383
+yi zhi 	一直	c=1 d=1 t=129
+yi zhi 	一致	c=1 d=1 t=128
+ying gai shi 	應該是	c=1 d=1 t=52
+ying yong 	應用	c=1 d=1 t=483
+yo 	喲	c=1 d=1 t=443
+yong shou 	用手	c=0 d=0.1 t=165
+yong shou o 	用手哦	c=1 d=1 t=166
+you 	有	c=1 d=1 t=303
+you dian 	有點	c=2 d=1.28938 t=495
+zai 	再	c=3 d=1.90623 t=370
+zai 	在	c=1 d=1 t=371
+zen me 	怎麼	c=2 d=1.20598 t=467
+zen me ban 	怎麼辦	c=1 d=1 t=387
+zen me yang 	怎麼樣	c=1 d=1 t=447
+zhang hui lai 	漲回來	c=0 d=0.1 t=253
+zhang hui lai le 	漲回來了	c=1 d=1 t=254
+zhao 	找	c=1 d=1 t=282
+zhe 	這	c=1 d=1 t=260
+zhe bo 	這波	c=1 d=1 t=188
+zhe ci 	這次	c=1 d=1 t=285
+zhe ge 	這個	c=2 d=1.36972 t=510
+zhe jiu 	這就	c=1 d=1 t=48
+zhe shang 	浙商	c=1 d=1 t=259
+zhe teng 	折騰	c=1 d=1 t=399
+zhe yang 	這樣	c=1 d=1 t=150
+zhe zhong 	這種	c=1 d=1 t=89
+zhen bu cuo 	真不錯	c=1 d=1 t=509
+zheng chang 	正常	c=0 d=0.1 t=118
+zhi hou 	之後	c=1 d=1 t=218
+zhi hui 	指揮	c=1 d=1 t=324
+zhi jie 	直接	c=3 d=2.49338 t=392
+zhi neng shuo 	只能說	c=1 d=1 t=258
+zhi yu 	治癒	c=0 d=0.1 t=401
+zhong wu 	中午	c=1 d=1 t=368
+zhou mo 	週末	c=1 d=1 t=231
+zhu 	住	c=1 d=1 t=385
+zhu dong 	主動	c=1 d=1 t=110
+zhu yao shi 	主要是	c=1 d=1 t=125
+zhuan le 	賺了	c=4 d=2.7578 t=420
+zhun bei 	準備	c=1 d=1 t=463
+zuo de 	做的	c=1 d=1 t=54
